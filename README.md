@@ -15,20 +15,21 @@
 
   ### ● SELECTED WORK — ./repositories --pinned
 
-  [![BenchMax](https://github-readme-stats.vercel.app/api/pin/?username=7amzaRando&repo=BenchMax&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/7amzaRando/BenchMax)
-  [![Planify](https://github-readme-stats.vercel.app/api/pin/?username=7amzaRando&repo=Planify&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/7amzaRando/Planify)
-  [![7amzaRando](https://github-readme-stats.vercel.app/api/pin/?username=7amzaRando&repo=7amzaRando&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/7amzaRando/7amzaRando)
+  <a href="https://github.com/7amzaRando/BenchMax"><img src="repo-benchmax.svg" width="32%" alt="BenchMax" /></a>
+  <a href="https://github.com/7amzaRando/Planify"><img src="repo-planify.svg" width="32%" alt="Planify" /></a>
+  <a href="https://github.com/7amzaRando/7amzaRando"><img src="repo-7amzarando.svg" width="32%" alt="7amzaRando" /></a>
 
-  <sub>cards sync live with your repos — <a href="https://github.com/7amzaRando?tab=repositories">github.com/7amzaRando?tab=repositories →</a></sub>
+  <br />
+  <sub>3 selected — <a href="https://github.com/7amzaRando?tab=repositories">github.com/7amzaRando?tab=repositories →</a></sub>
 
   ---
 
   ### ● CONTRIBUTION MATRIX — auto-updating
 
-  <img src="https://github-readme-stats.vercel.app/api?username=7amzaRando&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=e2e8f0&icon_color=fbbf24" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=7amzaRando&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=FBBF24&currStreakLabel=22D3EE" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7amzaRando&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=7amzaRando&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=FBBF24&currStreakLabel=22D3EE" width="70%" />
+  <br /><br />
+  <img src="https://img.shields.io/github/followers/7amzaRando?style=for-the-badge&logo=github&label=Followers" height="28" />
+  <img src="https://img.shields.io/github/stars/7amzaRando?style=for-the-badge&logo=github&label=Stars" height="28" />
 
   ---
 
