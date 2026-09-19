@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="560" height="430" viewBox="0 0 560 430">
+<style>
+  .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+  .blink { animation: blink 1.2s steps(2) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<defs>
+  <pattern id="pgrid" width="22" height="22" patternUnits="userSpaceOnUse">
+    <path d="M22 0H0V22" fill="none" stroke="#161e2a" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="divider" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/>
+    <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+
+<rect x="4" y="4" width="552" height="422" rx="14" fill="#0d1117" stroke="#1e3a4a" stroke-width="1.5"/>
+<rect x="4" y="4" width="552" height="422" rx="14" fill="url(#pgrid)" opacity=".7"/>
+
+<!-- header bar -->
+<rect x="20" y="18" width="520" height="38" rx="9" fill="#22d3ee" fill-opacity=".07" stroke="#1e3a4a"/>
+<circle cx="42" cy="37" r="5" fill="#3fb950"/>
+<text x="54" y="42" class="mono" font-size="12" letter-spacing="2" fill="#22d3ee">ONLINE</text>
+<text x="150" y="42" class="mono" font-size="12" fill="#5b6b7a">hamza@eg:~/profile</text>
+<text x="470" y="42" class="mono" font-size="11" fill="#5b6b7a">SYS//EG</text>
+
+<!-- corners -->
+<g stroke="#22d3ee" stroke-width="2" fill="none" opacity=".8">
+  <path d="M14 44 V22 H36"/><path d="M524 22 H546 V44"/>
+  <path d="M14 386 V408 H36"/><path d="M524 408 H546 V386"/>
+</g>
+
+<!-- identity -->
+<text x="28" y="88" class="mono" font-size="13" fill="#7d8590">&gt; whoami --profile</text>
+<text x="28" y="110" class="mono" font-size="11" letter-spacing="3" fill="#7d8590">IDENTITY</text>
+<text x="26" y="148" class="mono" font-size="36" font-weight="bold" fill="#58a6ff">Hamza</text>
+<text x="28" y="174" class="mono" font-size="16" font-weight="bold" fill="#22d3ee">&gt; Computer Science Student</text>
+<rect x="28" y="188" width="504" height="2" fill="url(#divider)"/>
+
+<!-- rows -->
+<g class="mono" font-size="14">
+  <text x="28" y="218" fill="#22d3ee">▸</text><text x="48" y="218" fill="#7d8590">LOCATION</text><text x="190" y="218" fill="#e6edf3">Egypt</text>
+  <text x="28" y="246" fill="#22d3ee">▸</text><text x="48" y="246" fill="#7d8590">EDUCATION</text><text x="190" y="246" fill="#e6edf3">B.Sc Computer Science — University</text>
+  <text x="28" y="274" fill="#22d3ee">▸</text><text x="48" y="274" fill="#7d8590">FOCUS</text><text x="190" y="274" fill="#e6edf3">Software Dev • Python / AI</text>
+  <text x="28" y="302" fill="#22d3ee">▸</text><text x="48" y="302" fill="#7d8590">PORTFOLIO</text><text x="190" y="302" fill="#22d3ee">github.com/7amzaRando</text>
+</g>
+
+<!-- uplink -->
+<text x="28" y="336" class="mono" font-size="11" letter-spacing="2" fill="#7d8590">UPLINK</text>
+
+<a xlink:href="https://github.com/7amzaRando" href="https://github.com/7amzaRando">
+  <rect x="28" y="348" width="150" height="36" rx="18" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="52" cy="366" r="7" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <text x="68" y="371" class="mono" font-size="13" font-weight="bold" fill="#ffffff">GITHUB</text>
+</a>
+<a xlink:href="https://www.linkedin.com/in/hamza-atwany-305783438/" href="https://www.linkedin.com/in/hamza-atwany-305783438/">
+  <rect x="188" y="348" width="160" height="36" rx="18" fill="#0A66C2"/>
+  <text x="210" y="371" class="mono" font-size="13" font-weight="bold" fill="#ffffff">in LINKEDIN</text>
+</a>
+
+<rect class="blink" x="508" y="392" width="9" height="13" fill="#22d3ee"/>
+<text x="28" y="404" class="mono" font-size="11" fill="#5b6b7a">./repos --pinned ↓</text>
+</svg>
